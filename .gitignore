@@ -3,14 +3,14 @@ node_modules/
 
 # Arquivos de ambiente
 .env
-.env.* # Se houver variações como .env.production
+.env.* 
 
 # Build/output
 dist/
 build/
 out/
 
-# Logs (caso esteja gerando)
+# Logs 
 logs/
 *.log
 
@@ -26,6 +26,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Test coverage (se usar Jest ou outras ferramentas)
+# Test coverage 
 coverage/
 .nyc_output/
